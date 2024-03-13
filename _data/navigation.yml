@@ -4,8 +4,11 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/ 
+    
+- title: "Honours and Awards"
+    url: /Honours and Awards/ 
+    
   - title: "Teaching"
     url: /teaching/    
     
